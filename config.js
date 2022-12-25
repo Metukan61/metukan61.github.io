@@ -1,0 +1,15 @@
+module.exports = {
+  Prefix: "?",
+  Owners: ["995294959580217365","", "", "",""], 
+  Token: process.env.token,
+  mongoPass: process.env.mongoPass,
+  Error_log_channel: "1056123359529816096",
+  Auth_log_channel: "1056123359529816096",
+  oauth_link: "https://discord.com/api/oauth2/authorize?client_id=1042024381678882887&redirect_uri=https%3A%2F%2Fez-auth.ozi1761hastan.repl.co&response_type=code&scope=guilds.join",
+  client_id: "1053817611147808818",
+  logchannel: "1056123359529816096",
+  autoroleserver: "1045023814465114184",
+  autoroleid: "1048278023675334776",
+  client_secret: process.env.client,
+  redirect_uri: "https://Auth.project-xy.repl.co/authed",
+}
